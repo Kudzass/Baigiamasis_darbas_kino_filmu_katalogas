@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <title>Filmų katalogas</title>
+</head>
+<body>
+    <h1>Filmų sąrašas</h1>
+    <ul>
+        {% for filmas in filmai %}
+            <li>
+                <strong>{{ filmas.pavadinimas }}</strong><br>
+                Žanras: {{ filmas.zanras }}<br>
+                Išleidimo data: {{ filmas.isleidimo_data }}<br>
+                Režisierius: {{ filmas.rezisierius }}<br>
+                IMDB: {{ filmas.imdb }}
+            </li>
+        {% else %}
+            <p>Filmų nėra.</p>
+        {% endfor %}
+    </ul>
+</body>
+</html>
