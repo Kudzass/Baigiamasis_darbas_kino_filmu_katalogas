@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="lt">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Filmų katalogas</title>
+    <title>Filmai</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
     <h1>Filmų sąrašas</h1>
     <ul>
         {% for filmas in filmai %}
             <li>
-                <strong>{{ filmas.pavadinimas }}</strong><br>
-                Žanras: {{ filmas.zanras }}<br>
-                Išleidimo data: {{ filmas.isleidimo_data }}<br>
+                <strong>{{ filmas.pavadinimas }}</strong> <br>
+                Žanras: {{ filmas.zanras.pavadinimas }}<br>
                 Režisierius: {{ filmas.rezisierius }}<br>
+                Data: {{ filmas.isleidimo_data }}<br>
                 IMDB: {{ filmas.imdb }}
             </li>
         {% else %}
-            <p>Filmų nėra.</p>
+            <li>Dar nėra filmų.</li>
         {% endfor %}
     </ul>
 </body>
