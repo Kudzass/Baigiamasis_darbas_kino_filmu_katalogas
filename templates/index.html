@@ -6,6 +6,10 @@
 </head>
 <body>
     <h1>Filmų sąrašas</h1>
+    <form method="get" action="/">
+    <input type="text" name="search" placeholder="Ieškoti pagal pavadinimą arba režisierių">
+    <button type="submit">Ieškoti</button>
+</form>
     <ul>
         {% for filmas in filmai %}
             <li>
