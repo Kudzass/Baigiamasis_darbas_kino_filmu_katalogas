@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>Filmų sąrašas</h1>
+    <h1>IMDB TOP 250 filmų sąrašas</h1>
 
     <a href="{{ url_for('prideti_filma') }}" style="padding: 5px 10px; background-color: #eee; border: 1px solid #ccc; text-decoration: none; border-radius: 5px;">
         Pridėti filmą
@@ -17,9 +17,20 @@
             {% for zanras in zanrai %}
                 {% set selected = 'selected' if request.args.get('zanras_id') == zanras.id|string else '' %}
             <option value="{{ zanras.id }}" {{ selected }}>
-    {{ zanras.pavadinimas }}
+                {{ zanras.pavadinimas }}
             </option>
             {% endfor %}
+        </select>
+
+        <select name="imdb_range" style="width: 130px;">
+    <option value="">Visi įvertinimai</option>
+
+    {% for r in ['1-3', '3-6', '6-8', '8-10'] %}
+        {% set selected = 'selected' if request.args.get('imdb_range') == r else '' %}
+        <option value="{{ r }}" {{ selected }}>
+            {{ r.replace('-', ' - ') }}
+        </option>
+    {% endfor %}
         </select>
 
         <input type="text" name="search" placeholder="Ieškoti pagal pavadinimą arba režisierių" value="{{ request.args.get('search', '') }}">

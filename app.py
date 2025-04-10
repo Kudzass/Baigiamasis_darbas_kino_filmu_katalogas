@@ -1,6 +1,19 @@
 from datetime import datetime
+from typing import Any
 from flask import Flask, render_template, request, redirect, url_for
 from models import db, Filmas, Zanras
+import pandas as pd
+
+imdb_ranges = {
+    '1-3': (1.0, 3.0),
+    '3-6': (3.1, 6.0),
+    '6-8': (6.1, 8.0),
+    '8-10': (8.1, 10.0)
+}
+
+df = pd.DataFrame([
+    {"rėžis": key, "nuo": value[0], "iki": value[1]} for key, value in imdb_ranges.items()
+])
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///filmai.db'
@@ -12,8 +25,13 @@ db.init_app(app)
 def index():
     search = request.args.get('search')
     zanras_id = request.args.get('zanras_id')
+    imdb_range = request.args.get('imdb_range')
 
     filmai_query = Filmas.query
+
+    if imdb_range in imdb_ranges:
+        nuo, iki = imdb_ranges[imdb_range]
+        filmai_query.filter(Filmas.imdb >= nuo, Filmas.imdb <= iki)
 
     if search:
         filmai_query = filmai_query.filter(
@@ -24,10 +42,19 @@ def index():
     if zanras_id and zanras_id.isdigit():
             filmai_query = filmai_query.filter(Filmas.zanras_id == int(zanras_id))
 
-    filmai = filmai_query.all()
-    zanrai = Zanras.query.all()
-    return render_template('index.html', filmai=filmai, zanrai=zanrai)
+    if imdb_range in imdb_ranges:
+            nuo, iki = imdb_ranges[imdb_range]
+            filmai_query = filmai_query.filter(Filmas.imdb >= nuo, Filmas.imdb <= iki)
 
+    filmai = filmai_query.all()
+    zanrai: list[Any] = Zanras.query.all()
+
+    return render_template(
+        'index.html',
+        filmai=filmai,
+        zanrai=zanrai,
+        imdb_range=imdb_range
+    )
 
 
 @app.route('/prideti', methods=['GET', 'POST'])
