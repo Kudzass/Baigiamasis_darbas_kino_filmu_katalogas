@@ -22,6 +22,8 @@ def index():
 
 @app.route('/prideti', methods=['GET', 'POST'])
 def prideti_filma():
+    klaida = None
+
     if request.method == 'POST':
         pavadinimas = request.form['pavadinimas']
         zanras_id = request.form['zanras_id']
@@ -29,29 +31,33 @@ def prideti_filma():
         isleidimo_data = request.form['isleidimo_data']
         imdb = request.form['imdb']
 
-        try:
-            isleidimo_data = datetime.strptime(isleidimo_data, '%Y')
-        except ValueError:
-            isleidimo_data = None
+        if not pavadinimas or not zanras_id or not rezisierius or not isleidimo_data or not imdb:
+            klaida = "Užpildykite visus laukus."
+        else:
+            try:
+                isleidimo_data = datetime.strptime(isleidimo_data, '%Y')
+            except ValueError:
+                isleidimo_data = None
 
-        try:
-            imdb = float(imdb)
-        except ValueError:
-            imdb = 0.0
+            try:
+                imdb = float(imdb)
+            except ValueError:
+                imdb = 0.0
 
-        naujas_filmas = Filmas(
-            pavadinimas=pavadinimas,
-            zanras_id=zanras_id,
-            rezisierius=rezisierius,
-            isleidimo_data=isleidimo_data,
-            imdb=imdb
-        )
-        db.session.add(naujas_filmas)
-        db.session.commit()
-        return redirect(url_for('index'))
+            naujas_filmas = Filmas(
+                pavadinimas=pavadinimas,
+                zanras_id=zanras_id,
+                rezisierius=rezisierius,
+                isleidimo_data=isleidimo_data,
+                imdb=imdb
+            )
+            db.session.add(naujas_filmas)
+            db.session.commit()
+            return redirect(url_for('index'))
 
     zanrai = Zanras.query.all()
-    return render_template('add.html', zanrai=zanrai)
+    return render_template('add.html', zanrai=zanrai, klaida=klaida)
+
 
 @app.route('/redaguoti/<int:id>', methods=['GET', 'POST'])
 def redaguoti_filma(id):

@@ -5,6 +5,11 @@
 </head>
 <body>
     <h1>Pridėti naują filmą</h1>
+
+    {% if klaida %}
+        <p style="color:red;">{{ klaida }}</p>
+    {% endif %}
+
     <form method="POST">
         <label>Pavadinimas:</label><br>
         <input type="text" name="pavadinimas"><br><br>
