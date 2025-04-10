@@ -9,8 +9,12 @@
         <label>Pavadinimas:</label><br>
         <input type="text" name="pavadinimas"><br><br>
 
-        <label>Žanro ID:</label><br>
-        <input type="number" name="zanras_id"><br><br>
+        <label>Žanras:</label><br>
+<select name="zanras_id" style="width: 177px; padding: 1px 2px;">
+    {% for zanras in zanrai|sort(attribute='pavadinimas') %}
+        <option value="{{ zanras.id }}">{{ zanras.pavadinimas }}</option>
+    {% endfor %}
+</select><br><br>
 
         <label>Režisierius:</label><br>
         <input type="text" name="rezisierius"><br><br>

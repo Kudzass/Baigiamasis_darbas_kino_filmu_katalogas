@@ -10,8 +10,14 @@
         <label>Pavadinimas:</label><br>
         <input type="text" name="pavadinimas" value="{{ filmas.pavadinimas }}"><br><br>
 
-        <label>Žanro ID:</label><br>
-        <input type="number" name="zanras_id" value="{{ filmas.zanras_id }}" step="1"><br><br>
+        <label>Žanras:</label><br>
+<select name="zanras_id" style="width: 177px; padding: 1px 2px;">
+    {% for zanras in zanrai|sort(attribute='pavadinimas') %}
+        <option value="{{ zanras.id }}" {% if zanras.id == filmas.zanras_id %}selected{% endif %}>
+            {{ zanras.pavadinimas }}
+        </option>
+    {% endfor %}
+</select><br><br>
 
         <label>Režisierius:</label><br>
         <input type="text" name="rezisierius" value="{{ filmas.rezisierius }}"><br><br>

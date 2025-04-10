@@ -1,6 +1,6 @@
 from datetime import datetime
 from flask import Flask, render_template, request, redirect, url_for
-from models import db, Filmas
+from models import db, Filmas, Zanras
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///filmai.db'
@@ -50,7 +50,8 @@ def prideti_filma():
         db.session.commit()
         return redirect(url_for('index'))
 
-    return render_template('add.html')
+    zanrai = Zanras.query.all()
+    return render_template('add.html', zanrai=zanrai)
 
 @app.route('/redaguoti/<int:id>', methods=['GET', 'POST'])
 def redaguoti_filma(id):
@@ -75,7 +76,8 @@ def redaguoti_filma(id):
         db.session.commit()
         return redirect(url_for('index'))
 
-    return render_template('edit.html', filmas=filmas)
+    zanrai = Zanras.query.all()
+    return render_template('edit.html', filmas=filmas, zanrai=zanrai)
 
 @app.route('/istrinti/<int:id>', methods=['POST'])
 def istrinti_filma(id):
