@@ -11,14 +11,24 @@ db.init_app(app)
 @app.route('/')
 def index():
     search = request.args.get('search')
+    zanras_id = request.args.get('zanras_id')
+
+    filmai_query = Filmas.query
+
     if search:
-        filmai = Filmas.query.filter(
+        filmai_query = filmai_query.filter(
             Filmas.pavadinimas.ilike(f'%{search}%') |
             Filmas.rezisierius.ilike(f'%{search}%')
-        ).all()
-    else:
-        filmai = Filmas.query.all()
-    return render_template('index.html', filmai=filmai)
+        )
+
+    if zanras_id and zanras_id.isdigit():
+            filmai_query = filmai_query.filter(Filmas.zanras_id == int(zanras_id))
+
+    filmai = filmai_query.all()
+    zanrai = Zanras.query.all()
+    return render_template('index.html', filmai=filmai, zanrai=zanrai)
+
+
 
 @app.route('/prideti', methods=['GET', 'POST'])
 def prideti_filma():

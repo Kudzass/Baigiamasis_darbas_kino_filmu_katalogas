@@ -7,13 +7,26 @@
 <body>
     <h1>Filmų sąrašas</h1>
 
-    <a href="{{ url_for('prideti_filma') }}"><button>Pridėti filmą</button></a>
+    <a href="{{ url_for('prideti_filma') }}" style="padding: 5px 10px; background-color: #eee; border: 1px solid #ccc; text-decoration: none; border-radius: 5px;">
+        Pridėti filmą
+    </a>
 
-    <form method="get" action="/">
-    <input type="text" name="search" placeholder="Ieškoti pagal pavadinimą arba režisierių">
-    <button type="submit">Ieškoti</button>
+    <form method="get" action="/" style="margin-top: 15px;">
+        <select name="zanras_id" style="width: 177px;">
+            <option value="">Visi žanrai</option>
+            {% for zanras in zanrai %}
+                {% set selected = 'selected' if request.args.get('zanras_id') == zanras.id|string else '' %}
+            <option value="{{ zanras.id }}" {{ selected }}>
+    {{ zanras.pavadinimas }}
+            </option>
+            {% endfor %}
+        </select>
+
+        <input type="text" name="search" placeholder="Ieškoti pagal pavadinimą arba režisierių" value="{{ request.args.get('search', '') }}">
+        <button type="submit">Filtruoti</button>
     </form>
 
+    {% if filmai %}
     <ul>
         {% for filmas in filmai %}
             <li>
@@ -24,14 +37,14 @@
                 IMDB: {{ filmas.imdb }}
 
                 <a href="{{ url_for('redaguoti_filma', id=filmas.id) }}">Redaguoti</a>
-
                 <form action="{{ url_for('istrinti_filma', id=filmas.id) }}" method="post" style="display:inline;">
-        <button type="submit">Ištrinti</button>
+                    <button type="submit">Ištrinti</button>
                 </form>
             </li>
-        {% else %}
-            <li>Dar nėra filmų.</li>
         {% endfor %}
     </ul>
+{% else %}
+    <p style="margin-top: 20px;">Pagal jūsų filtrą ar paiešką filmų nerasta.</p>
+{% endif %}
 </body>
 </html>
