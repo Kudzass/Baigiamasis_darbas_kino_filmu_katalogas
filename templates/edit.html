@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <title>Redaguoti filmą</title>
+</head>
+<body>
+    <h1>Redaguoti filmą</h1>
+    <form method="POST">
+        <label>Pavadinimas:</label><br>
+        <input type="text" name="pavadinimas" value="{{ filmas.pavadinimas }}"><br><br>
+
+        <label>Žanro ID:</label><br>
+        <input type="text" name="zanras_id" value="{{ filmas.zanras_id }}"><br><br>
+
+        <label>Režisierius:</label><br>
+        <input type="text" name="rezisierius" value="{{ filmas.rezisierius }}"><br><br>
+
+        <label>Išleidimo data (YYYY-MM-DD):</label><br>
+        <input type="text" name="isleidimo_data" value="{{ filmas.isleidimo_data }}"><br><br>
+
+        <label>IMDB:</label><br>
+        <input type="text" name="imdb" value="{{ filmas.imdb }}"><br><br>
+
+        <button type="submit">Išsaugoti</button>
+    </form>
+</body>
+</html>
