@@ -11,16 +11,16 @@
         <input type="text" name="pavadinimas" value="{{ filmas.pavadinimas }}"><br><br>
 
         <label>Žanro ID:</label><br>
-        <input type="text" name="zanras_id" value="{{ filmas.zanras_id }}"><br><br>
+        <input type="number" name="zanras_id" value="{{ filmas.zanras_id }}" step="1"><br><br>
 
         <label>Režisierius:</label><br>
         <input type="text" name="rezisierius" value="{{ filmas.rezisierius }}"><br><br>
 
         <label>Išleidimo metai:</label><br>
-        <input type="number" name="isleidimo_data" value="{{ filmas.isleidimo_data.year }}" min="1900" max="2100">
+        <input type="number" name="isleidimo_data" value="{{ filmas.isleidimo_data.year }}" min="1900" max="2100" step="1"><br><br>
 
         <label>IMDB:</label><br>
-        <input type="text" name="imdb" value="{{ filmas.imdb }}"><br><br>
+        <input type="number" name="imdb" value="{{ filmas.imdb }}" step="0.1"><br><br>
 
         <button type="submit">Išsaugoti</button>
     </form>
