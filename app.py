@@ -70,7 +70,7 @@ def redaguoti_filma(id):
             filmas.imdb = 0.0
 
         try:
-            filmas.isleidimo_data = datetime.strptime(request.form['isleidimo_data'], '%Y-%m-%d')
+            filmas.isleidimo_data = datetime.strptime(request.form['isleidimo_data'], '%Y')
         except ValueError:
             filmas.isleidimo_data = None
 
@@ -79,6 +79,12 @@ def redaguoti_filma(id):
 
     return render_template('edit.html', filmas=filmas)
 
+@app.route('/istrinti/<int:id>', methods=['POST'])
+def istrinti_filma(id):
+    filmas = Filmas.query.get_or_404(id)
+    db.session.delete(filmas)
+    db.session.commit()
+    return redirect(url_for('index'))
 
 if __name__ == '__main__':
     app.run(debug=True)
