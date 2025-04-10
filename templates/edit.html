@@ -16,8 +16,8 @@
         <label>Režisierius:</label><br>
         <input type="text" name="rezisierius" value="{{ filmas.rezisierius }}"><br><br>
 
-        <label>Išleidimo data:</label><br>
-        <input type="text" name="isleidimo_data" value="{{ filmas.isleidimo_data }}"><br><br>
+        <label>Išleidimo metai:</label><br>
+        <input type="number" name="isleidimo_data" value="{{ filmas.isleidimo_data.year }}" min="1900" max="2100">
 
         <label>IMDB:</label><br>
         <input type="text" name="imdb" value="{{ filmas.imdb }}"><br><br>

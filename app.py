@@ -1,13 +1,12 @@
-from flask import Flask, render_template, request, redirect, url_for
-from models import db, Filmas, Zanras
 from datetime import datetime
+from flask import Flask, render_template, request, redirect, url_for
+from models import db, Filmas
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///filmai.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db.init_app(app)
-
 
 @app.route('/')
 def index():
@@ -20,7 +19,6 @@ def index():
     else:
         filmai = Filmas.query.all()
     return render_template('index.html', filmai=filmai)
-
 
 @app.route('/prideti', methods=['GET', 'POST'])
 def prideti_filma():
@@ -54,7 +52,6 @@ def prideti_filma():
 
     return render_template('add.html')
 
-
 @app.route('/redaguoti/<int:id>', methods=['GET', 'POST'])
 def redaguoti_filma(id):
     filmas = Filmas.query.get_or_404(id)
@@ -70,9 +67,10 @@ def redaguoti_filma(id):
             filmas.imdb = 0.0
 
         try:
-            filmas.isleidimo_data = datetime.strptime(request.form['isleidimo_data'], '%Y')
-        except ValueError:
-            filmas.isleidimo_data = None
+            isleidimo_data_str = request.form['isleidimo_data']
+            filmas.isleidimo_data = datetime.strptime(isleidimo_data_str, '%Y')
+        except (ValueError, TypeError):
+            filmas.isleidimo_data = filmas.isleidimo_data
 
         db.session.commit()
         return redirect(url_for('index'))
