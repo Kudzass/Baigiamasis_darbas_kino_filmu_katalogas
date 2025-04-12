@@ -1,0 +1,177 @@
+[
+  {
+    "pavadinimas": "The Shawshank Redemption",
+    "rezisierius": "Frank Darabont",
+    "metai": 1994,
+    "zanras": "Drama",
+    "imdb": 9.3
+  },
+  {
+    "pavadinimas": "The Godfather",
+    "rezisierius": "Francis Ford Coppola",
+    "metai": 1972,
+    "zanras": "Kriminalinis",
+    "imdb": 9.2
+  },
+  {
+    "pavadinimas": "The Dark Knight",
+    "rezisierius": "Christopher Nolan",
+    "metai": 2008,
+    "zanras": "Veiksmo",
+    "imdb": 9.0
+  },
+  {
+    "pavadinimas": "The Godfather Part II",
+    "rezisierius": "Francis Ford Coppola",
+    "metai": 1974,
+    "zanras": "Kriminalinis",
+    "imdb": 9.0
+  },
+  {
+    "pavadinimas": "12 Angry Men",
+    "rezisierius": "Sidney Lumet",
+    "metai": 1957,
+    "zanras": "Drama",
+    "imdb": 9.0
+  },
+  {
+    "pavadinimas": "Schindler's List",
+    "rezisierius": "Steven Spielberg",
+    "metai": 1993,
+    "zanras": "Biografinis",
+    "imdb": 9.0
+  },
+  {
+    "pavadinimas": "The Lord of the Rings: The Return of the King",
+    "rezisierius": "Peter Jackson",
+    "metai": 2003,
+    "zanras": "Nuotykių",
+    "imdb": 9.0
+  },
+  {
+    "pavadinimas": "Pulp Fiction",
+    "rezisierius": "Quentin Tarantino",
+    "metai": 1994,
+    "zanras": "Kriminalinis",
+    "imdb": 8.9
+  },
+  {
+    "pavadinimas": "The Good, the Bad and the Ugly",
+    "rezisierius": "Sergio Leone",
+    "metai": 1966,
+    "zanras": "Vesternas",
+    "imdb": 8.8
+  },
+  {
+    "pavadinimas": "The Lord of the Rings: The Fellowship of the Ring",
+    "rezisierius": "Peter Jackson",
+    "metai": 2001,
+    "zanras": "Nuotykių",
+    "imdb": 8.8
+  },
+  {
+    "pavadinimas": "Fight Club",
+    "rezisierius": "David Fincher",
+    "metai": 1999,
+    "zanras": "Drama",
+    "imdb": 8.8
+  },
+  {
+    "pavadinimas": "Forrest Gump",
+    "rezisierius": "Robert Zemeckis",
+    "metai": 1994,
+    "zanras": "Drama",
+    "imdb": 8.8
+  },
+  {
+    "pavadinimas": "Inception",
+    "rezisierius": "Christopher Nolan",
+    "metai": 2010,
+    "zanras": "Veiksmo",
+    "imdb": 8.7
+  },
+  {
+    "pavadinimas": "The Lord of the Rings: The Two Towers",
+    "rezisierius": "Peter Jackson",
+    "metai": 2002,
+    "zanras": "Nuotykių",
+    "imdb": 8.7
+  },
+  {
+    "pavadinimas": "Star Wars: Episode V - The Empire Strikes Back",
+    "rezisierius": "Irvin Kershner",
+    "metai": 1980,
+    "zanras": "Veiksmo",
+    "imdb": 8.7
+  },
+  {
+    "pavadinimas": "The Matrix",
+    "rezisierius": "Lana Wachowski, Lilly Wachowski",
+    "metai": 1999,
+    "zanras": "Mokslinė fantastika",
+    "imdb": 8.7
+  },
+  {
+    "pavadinimas": "Goodfellas",
+    "rezisierius": "Martin Scorsese",
+    "metai": 1990,
+    "zanras": "Biografinis",
+    "imdb": 8.7
+  },
+  {
+    "pavadinimas": "One Flew Over the Cuckoo's Nest",
+    "rezisierius": "Milos Forman",
+    "metai": 1975,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Se7en",
+    "rezisierius": "David Fincher",
+    "metai": 1995,
+    "zanras": "Kriminalinis",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Seven Samurai",
+    "rezisierius": "Akira Kurosawa",
+    "metai": 1954,
+    "zanras": "Nuotykių",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "It's a Wonderful Life",
+    "rezisierius": "Frank Capra",
+    "metai": 1946,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "The Silence of the Lambs",
+    "rezisierius": "Jonathan Demme",
+    "metai": 1991,
+    "zanras": "Kriminalinis",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Saving Private Ryan",
+    "rezisierius": "Steven Spielberg",
+    "metai": 1998,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "City of God",
+    "rezisierius": "Fernando Meirelles, Kátia Lund",
+    "metai": 2002,
+    "zanras": "Kriminalinis",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Interstellar",
+    "rezisierius": "Christopher Nolan",
+    "metai": 2014,
+    "zanras": "Mokslinė fantastika",
+    "imdb": 8.6
+  }
+]
