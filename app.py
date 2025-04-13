@@ -3,6 +3,7 @@ from typing import Any
 from flask import Flask, render_template, request, redirect, url_for
 from models import db, Filmas, Zanras
 import pandas as pd
+import os
 
 imdb_ranges = {
     '1-3': (1.0, 3.0),
@@ -15,8 +16,12 @@ df = pd.DataFrame([
     {"rėžis": key, "nuo": value[0], "iki": value[1]} for key, value in imdb_ranges.items()
 ])
 
-app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///filmai.db'
+app = Flask(__name__, instance_relative_config=True)
+
+if not os.path.exists(app.instance_path):
+    os.makedirs(app.instance_path)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + app.instance_path + '/filmai.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db.init_app(app)
@@ -28,10 +33,6 @@ def index():
     imdb_range = request.args.get('imdb_range')
 
     filmai_query = Filmas.query
-
-    if imdb_range in imdb_ranges:
-        nuo, iki = imdb_ranges[imdb_range]
-        filmai_query.filter(Filmas.imdb >= nuo, Filmas.imdb <= iki)
 
     if search:
         filmai_query = filmai_query.filter(
@@ -130,4 +131,6 @@ def istrinti_filma(id):
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    with app.app_context():
+        db.create_all()
+        app.run(debug=True)
