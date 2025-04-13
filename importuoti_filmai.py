@@ -30,6 +30,11 @@ with app.app_context():
         except (ValueError, TypeError):
             imdb = 0.0
 
+        esamas_filmas = Filmas.query.filter_by(pavadinimas=item['pavadinimas']).first()
+        if esamas_filmas:
+                print(f"⚠️ Filmas jau yra duomenų bazėje: {item['pavadinimas']}")
+                continue
+
         filmas = Filmas(
                 pavadinimas=item['pavadinimas'],
                 rezisierius=item['rezisierius'],
