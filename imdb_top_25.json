@@ -173,5 +173,1580 @@
     "isleidimo_data": 2014,
     "zanras": "Mokslinė fantastika",
     "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Spirited Away",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 2001,
+    "zanras": "Animacija",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "The Green Mile",
+    "rezisierius": "Frank Darabont",
+    "isleidimo_data": 1999,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Life Is Beautiful",
+    "rezisierius": "Roberto Benigni",
+    "isleidimo_data": 1997,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "The Usual Suspects",
+    "rezisierius": "Bryan Singer",
+    "isleidimo_data": 1995,
+    "zanras": "Kriminalinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Léon: The Professional",
+    "rezisierius": "Luc Besson",
+    "isleidimo_data": 1994,
+    "zanras": "Veiksmo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Harakiri",
+    "rezisierius": "Masaki Kobayashi",
+    "isleidimo_data": 1962,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "The Lion King",
+    "rezisierius": "Roger Allers, Rob Minkoff",
+    "isleidimo_data": 1994,
+    "zanras": "Animacija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Pianist",
+    "rezisierius": "Roman Polanski",
+    "isleidimo_data": 2002,
+    "zanras": "Biografinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Terminator 2: Judgment Day",
+    "rezisierius": "James Cameron",
+    "isleidimo_data": 1991,
+    "zanras": "Veiksmo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Back to the Future",
+    "rezisierius": "Robert Zemeckis",
+    "isleidimo_data": 1985,
+    "zanras": "Nuotykių",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "American History X",
+    "rezisierius": "Tony Kaye",
+    "isleidimo_data": 1998,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Modern Times",
+    "rezisierius": "Charles Chaplin",
+    "isleidimo_data": 1936,
+    "zanras": "Komedija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Psycho",
+    "rezisierius": "Alfred Hitchcock",
+    "isleidimo_data": 1960,
+    "zanras": "Siaubo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Gladiator",
+    "rezisierius": "Ridley Scott",
+    "isleidimo_data": 2000,
+    "zanras": "Veiksmo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "City Lights",
+    "rezisierius": "Charles Chaplin",
+    "isleidimo_data": 1931,
+    "zanras": "Komedija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Intouchables",
+    "rezisierius": "Olivier Nakache, Éric Toledano",
+    "isleidimo_data": 2011,
+    "zanras": "Biografinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Departed",
+    "rezisierius": "Martin Scorsese",
+    "isleidimo_data": 2006,
+    "zanras": "Kriminalinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Whiplash",
+    "rezisierius": "Damien Chazelle",
+    "isleidimo_data": 2014,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Prestige",
+    "rezisierius": "Christopher Nolan",
+    "isleidimo_data": 2006,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Lives of Others",
+    "rezisierius": "Florian Henckel von Donnersmarck",
+    "isleidimo_data": 2006,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Grave of the Fireflies",
+    "rezisierius": "Isao Takahata",
+    "isleidimo_data": 1988,
+    "zanras": "Animacija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Once Upon a Time in the West",
+    "rezisierius": "Sergio Leone",
+    "isleidimo_data": 1968,
+    "zanras": "Vesternas",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Casablanca",
+    "rezisierius": "Michael Curtiz",
+    "isleidimo_data": 1942,
+    "zanras": "Romantinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Rear Window",
+    "rezisierius": "Alfred Hitchcock",
+    "isleidimo_data": 1954,
+    "zanras": "Mistinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Alien",
+    "rezisierius": "Ridley Scott",
+    "isleidimo_data": 1979,
+    "zanras": "Siaubo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Green Mile",
+    "rezisierius": "Frank Darabont",
+    "isleidimo_data": 1999,
+    "zanras": "Drama",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Life Is Beautiful",
+    "rezisierius": "Roberto Benigni",
+    "isleidimo_data": 1997,
+    "zanras": "Karinis",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "Spirited Away",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 2001,
+    "zanras": "Animacija",
+    "imdb": 8.6
+  },
+  {
+    "pavadinimas": "The Intouchables",
+    "rezisierius": "Olivier Nakache, Éric Toledano",
+    "isleidimo_data": 2011,
+    "zanras": "Biografinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Parasite",
+    "rezisierius": "Bong Joon Ho",
+    "isleidimo_data": 2019,
+    "zanras": "Trileris",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Pianist",
+    "rezisierius": "Roman Polanski",
+    "isleidimo_data": 2002,
+    "zanras": "Biografinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Gladiator",
+    "rezisierius": "Ridley Scott",
+    "isleidimo_data": 2000,
+    "zanras": "Veiksmo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "American History X",
+    "rezisierius": "Tony Kaye",
+    "isleidimo_data": 1998,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Departed",
+    "rezisierius": "Martin Scorsese",
+    "isleidimo_data": 2006,
+    "zanras": "Kriminalinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Terminator 2: Judgment Day",
+    "rezisierius": "James Cameron",
+    "isleidimo_data": 1991,
+    "zanras": "Veiksmo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Back to the Future",
+    "rezisierius": "Robert Zemeckis",
+    "isleidimo_data": 1985,
+    "zanras": "Nuotykių",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Whiplash",
+    "rezisierius": "Damien Chazelle",
+    "isleidimo_data": 2014,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Prestige",
+    "rezisierius": "Christopher Nolan",
+    "isleidimo_data": 2006,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Lion King",
+    "rezisierius": "Roger Allers, Rob Minkoff",
+    "isleidimo_data": 1994,
+    "zanras": "Animacija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Usual Suspects",
+    "rezisierius": "Bryan Singer",
+    "isleidimo_data": 1995,
+    "zanras": "Kriminalinis",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Grave of the Fireflies",
+    "rezisierius": "Isao Takahata",
+    "isleidimo_data": 1988,
+    "zanras": "Animacija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Harakiri",
+    "rezisierius": "Masaki Kobayashi",
+    "isleidimo_data": 1962,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Cinema Paradiso",
+    "rezisierius": "Giuseppe Tornatore",
+    "isleidimo_data": 1988,
+    "zanras": "Drama",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "Alien",
+    "rezisierius": "Ridley Scott",
+    "isleidimo_data": 1979,
+    "zanras": "Siaubo",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "City Lights",
+    "rezisierius": "Charles Chaplin",
+    "isleidimo_data": 1931,
+    "zanras": "Romantinė komedija",
+    "imdb": 8.5
+  },
+  {
+    "pavadinimas": "The Lives of Others",
+    "rezisierius": "Florian Henckel von Donnersmarck",
+    "isleidimo_data": 2006,
+    "zanras": "Drama",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Paths of Glory",
+    "rezisierius": "Stanley Kubrick",
+    "isleidimo_data": 1957,
+    "zanras": "Karinis",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Django Unchained",
+    "rezisierius": "Quentin Tarantino",
+    "isleidimo_data": 2012,
+    "zanras": "Vesternas",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "WALL·E",
+    "rezisierius": "Andrew Stanton",
+    "isleidimo_data": 2008,
+    "zanras": "Animacija",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "The Shining",
+    "rezisierius": "Stanley Kubrick",
+    "isleidimo_data": 1980,
+    "zanras": "Siaubo",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Sunset Blvd.",
+    "rezisierius": "Billy Wilder",
+    "isleidimo_data": 1950,
+    "zanras": "Drama",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Witness for the Prosecution",
+    "rezisierius": "Billy Wilder",
+    "isleidimo_data": 1957,
+    "zanras": "Kriminalinis",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Avengers: Infinity War",
+    "rezisierius": "Anthony Russo, Joe Russo",
+    "isleidimo_data": 2018,
+    "zanras": "Veiksmo",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Spider-Man: Into the Spider-Verse",
+    "rezisierius": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "isleidimo_data": 2018,
+    "zanras": "Animacija",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Oldboy",
+    "rezisierius": "Park Chan-wook",
+    "isleidimo_data": 2003,
+    "zanras": "Trileris",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Princess Mononoke",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 1997,
+    "zanras": "Animacija",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Once Upon a Time in America",
+    "rezisierius": "Sergio Leone",
+    "isleidimo_data": 1984,
+    "zanras": "Kriminalinis",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Das Boot",
+    "rezisierius": "Wolfgang Petersen",
+    "isleidimo_data": 1981,
+    "zanras": "Karinis",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Your Name.",
+    "rezisierius": "Makoto Shinkai",
+    "isleidimo_data": 2016,
+    "zanras": "Animacija",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Coco",
+    "rezisierius": "Lee Unkrich, Adrian Molina",
+    "isleidimo_data": 2017,
+    "zanras": "Animacija",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Braveheart",
+    "rezisierius": "Mel Gibson",
+    "isleidimo_data": 1995,
+    "zanras": "Istorinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Amadeus",
+    "rezisierius": "Milos Forman",
+    "isleidimo_data": 1984,
+    "zanras": "Biografinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Toy Story",
+    "rezisierius": "John Lasseter",
+    "isleidimo_data": 1995,
+    "zanras": "Animacija",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "3 Idiots",
+    "rezisierius": "Rajkumar Hirani",
+    "isleidimo_data": 2009,
+    "zanras": "Komedija",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Requiem for a Dream",
+    "rezisierius": "Darren Aronofsky",
+    "isleidimo_data": 2000,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Reservoir Dogs",
+    "rezisierius": "Quentin Tarantino",
+    "isleidimo_data": 1992,
+    "zanras": "Kriminalinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Memento",
+    "rezisierius": "Christopher Nolan",
+    "isleidimo_data": 2000,
+    "zanras": "Trileris",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Like Stars on Earth",
+    "rezisierius": "Aamir Khan",
+    "isleidimo_data": 2007,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Eternal Sunshine of the Spotless Mind",
+    "rezisierius": "Michel Gondry",
+    "isleidimo_data": 2004,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Singin' in the Rain",
+    "rezisierius": "Gene Kelly, Stanley Donen",
+    "isleidimo_data": 1952,
+    "zanras": "Muzikinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Bicycle Thieves",
+    "rezisierius": "Vittorio De Sica",
+    "isleidimo_data": 1948,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "A Clockwork Orange",
+    "rezisierius": "Stanley Kubrick",
+    "isleidimo_data": 1971,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Lawrence of Arabia",
+    "rezisierius": "David Lean",
+    "isleidimo_data": 1962,
+    "zanras": "Istorinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Double Indemnity",
+    "rezisierius": "Billy Wilder",
+    "isleidimo_data": 1944,
+    "zanras": "Trileris",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Taxi Driver",
+    "rezisierius": "Martin Scorsese",
+    "isleidimo_data": 1976,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "The Sting",
+    "rezisierius": "George Roy Hill",
+    "isleidimo_data": 1973,
+    "zanras": "Kriminalinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Toy Story 3",
+    "rezisierius": "Lee Unkrich",
+    "isleidimo_data": 2010,
+    "zanras": "Animacija",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Inglourious Basterds",
+    "rezisierius": "Quentin Tarantino",
+    "isleidimo_data": 2009,
+    "zanras": "Karinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Full Metal Jacket",
+    "rezisierius": "Stanley Kubrick",
+    "isleidimo_data": 1987,
+    "zanras": "Karinis",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "To Kill a Mockingbird",
+    "rezisierius": "Robert Mulligan",
+    "isleidimo_data": 1962,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "The Hunt",
+    "rezisierius": "Thomas Vinterberg",
+    "isleidimo_data": 2012,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Good Will Hunting",
+    "rezisierius": "Gus Van Sant",
+    "isleidimo_data": 1997,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "The Father",
+    "rezisierius": "Florian Zeller",
+    "isleidimo_data": 2020,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "The Wolf of Wall Street",
+    "rezisierius": "Martin Scorsese",
+    "isleidimo_data": 2013,
+    "zanras": "Biografinis",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "V for Vendetta",
+    "rezisierius": "James McTeigue",
+    "isleidimo_data": 2005,
+    "zanras": "Veiksmo",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Shutter Island",
+    "rezisierius": "Martin Scorsese",
+    "isleidimo_data": 2010,
+    "zanras": "Trileris",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "The Truman Show",
+    "rezisierius": "Peter Weir",
+    "isleidimo_data": 1998,
+    "zanras": "Drama",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Jurassic Park",
+    "rezisierius": "Steven Spielberg",
+    "isleidimo_data": 1993,
+    "zanras": "Nuotykių",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "A Beautiful Mind",
+    "rezisierius": "Ron Howard",
+    "isleidimo_data": 2001,
+    "zanras": "Biografinis",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Kill Bill: Vol. 1",
+    "rezisierius": "Quentin Tarantino",
+    "isleidimo_data": 2003,
+    "zanras": "Veiksmo",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "No Country for Old Men",
+    "rezisierius": "Ethan Coen, Joel Coen",
+    "isleidimo_data": 2007,
+    "zanras": "Kriminalinis",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Finding Nemo",
+    "rezisierius": "Andrew Stanton, Lee Unkrich",
+    "isleidimo_data": 2003,
+    "zanras": "Animacija",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Inside Out",
+    "rezisierius": "Pete Docter, Ronnie del Carmen",
+    "isleidimo_data": 2015,
+    "zanras": "Animacija",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Howl's Moving Castle",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 2004,
+    "zanras": "Animacija",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "The Sixth Sense",
+    "rezisierius": "M. Night Shyamalan",
+    "isleidimo_data": 1999,
+    "zanras": "Trileris",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Blade Runner 2049",
+    "rezisierius": "Denis Villeneuve",
+    "isleidimo_data": 2017,
+    "zanras": "Mokslinė fantastika",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Pan's Labyrinth",
+    "rezisierius": "Guillermo del Toro",
+    "isleidimo_data": 2006,
+    "zanras": "Fantastinis",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Trainspotting",
+    "rezisierius": "Danny Boyle",
+    "isleidimo_data": 1996,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Grand Budapest Hotel",
+    "rezisierius": "Wes Anderson",
+    "isleidimo_data": 2014,
+    "zanras": "Komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Room",
+    "rezisierius": "Lenny Abrahamson",
+    "isleidimo_data": 2015,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Imitation Game",
+    "rezisierius": "Morten Tyldum",
+    "isleidimo_data": 2014,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Hacksaw Ridge",
+    "rezisierius": "Mel Gibson",
+    "isleidimo_data": 2016,
+    "zanras": "Karinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Logan",
+    "rezisierius": "James Mangold",
+    "isleidimo_data": 2017,
+    "zanras": "Veiksmo",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Prisoners",
+    "rezisierius": "Denis Villeneuve",
+    "isleidimo_data": 2013,
+    "zanras": "Trileris",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Warrior",
+    "rezisierius": "Gavin O'Connor",
+    "isleidimo_data": 2011,
+    "zanras": "Drama",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "The Revenant",
+    "rezisierius": "Alejandro G. Iñárritu",
+    "isleidimo_data": 2015,
+    "zanras": "Nuotykių",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Gone Girl",
+    "rezisierius": "David Fincher",
+    "isleidimo_data": 2014,
+    "zanras": "Trileris",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Zootopia",
+    "rezisierius": "Byron Howard, Rich Moore",
+    "isleidimo_data": 2016,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Dead Poets Society",
+    "rezisierius": "Peter Weir",
+    "isleidimo_data": 1989,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Big Lebowski",
+    "rezisierius": "Joel Coen, Ethan Coen",
+    "isleidimo_data": 1998,
+    "zanras": "Komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Before Sunrise",
+    "rezisierius": "Richard Linklater",
+    "isleidimo_data": 1995,
+    "zanras": "Romantinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Ratatouille",
+    "rezisierius": "Brad Bird",
+    "isleidimo_data": 2007,
+    "zanras": "Animacija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Hotel Rwanda",
+    "rezisierius": "Terry George",
+    "isleidimo_data": 2004,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Avengers",
+    "rezisierius": "Joss Whedon",
+    "isleidimo_data": 2012,
+    "zanras": "Veiksmo",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Captain America: The Winter Soldier",
+    "rezisierius": "Anthony Russo, Joe Russo",
+    "isleidimo_data": 2014,
+    "zanras": "Veiksmo",
+    "imdb": 7.8
+  },
+  {
+    "pavadinimas": "Doctor Strange",
+    "rezisierius": "Scott Derrickson",
+    "isleidimo_data": 2016,
+    "zanras": "Fantastinis",
+    "imdb": 7.5
+  },
+  {
+    "pavadinimas": "The Martian",
+    "rezisierius": "Ridley Scott",
+    "isleidimo_data": 2015,
+    "zanras": "Mokslinė fantastika",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "12 Years a Slave",
+    "rezisierius": "Steve McQueen",
+    "isleidimo_data": 2013,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Theory of Everything",
+    "rezisierius": "James Marsh",
+    "isleidimo_data": 2014,
+    "zanras": "Biografinis",
+    "imdb": 7.7
+  },
+  {
+    "pavadinimas": "Moonlight",
+    "rezisierius": "Barry Jenkins",
+    "isleidimo_data": 2016,
+    "zanras": "Drama",
+    "imdb": 7.4
+  },
+  {
+    "pavadinimas": "Spotlight",
+    "rezisierius": "Tom McCarthy",
+    "isleidimo_data": 2015,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "127 Hours",
+    "rezisierius": "Danny Boyle",
+    "isleidimo_data": 2010,
+    "zanras": "Biografinis",
+    "imdb": 7.6
+  },
+  {
+    "pavadinimas": "Black Swan",
+    "rezisierius": "Darren Aronofsky",
+    "isleidimo_data": 2010,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Social Network",
+    "rezisierius": "David Fincher",
+    "isleidimo_data": 2010,
+    "zanras": "Biografinis",
+    "imdb": 7.7
+  },
+  {
+    "pavadinimas": "Life of Pi",
+    "rezisierius": "Ang Lee",
+    "isleidimo_data": 2012,
+    "zanras": "Nuotykių",
+    "imdb": 7.9
+  },
+  {
+    "pavadinimas": "The Sound of Music",
+    "rezisierius": "Robert Wise",
+    "isleidimo_data": 1965,
+    "zanras": "Muzikinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Hotel Rwanda",
+    "rezisierius": "Terry George",
+    "isleidimo_data": 2004,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Iron Giant",
+    "rezisierius": "Brad Bird",
+    "isleidimo_data": 1999,
+    "zanras": "Animacija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Platoon",
+    "rezisierius": "Oliver Stone",
+    "isleidimo_data": 1986,
+    "zanras": "Karinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Network",
+    "rezisierius": "Sidney Lumet",
+    "isleidimo_data": 1976,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Stand by Me",
+    "rezisierius": "Rob Reiner",
+    "isleidimo_data": 1986,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The 400 Blows",
+    "rezisierius": "François Truffaut",
+    "isleidimo_data": 1959,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Rush",
+    "rezisierius": "Ron Howard",
+    "isleidimo_data": 2013,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "In the Name of the Father",
+    "rezisierius": "Jim Sheridan",
+    "isleidimo_data": 1993,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Princess Bride",
+    "rezisierius": "Rob Reiner",
+    "isleidimo_data": 1987,
+    "zanras": "Nuotykių",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Battle of Algiers",
+    "rezisierius": "Gillo Pontecorvo",
+    "isleidimo_data": 1966,
+    "zanras": "Karinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Maltese Falcon",
+    "rezisierius": "John Huston",
+    "isleidimo_data": 1941,
+    "zanras": "Kriminalinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Hachi: A Dog's Tale",
+    "rezisierius": "Lasse Hallström",
+    "isleidimo_data": 2009,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Papillon",
+    "rezisierius": "Franklin J. Schaffner",
+    "isleidimo_data": 1973,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "La Haine",
+    "rezisierius": "Mathieu Kassovitz",
+    "isleidimo_data": 1995,
+    "zanras": "Kriminalinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Nausicaä of the Valley of the Wind",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 1984,
+    "zanras": "Animacija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Stalker",
+    "rezisierius": "Andrei Tarkovsky",
+    "isleidimo_data": 1979,
+    "zanras": "Mokslinė fantastika",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Terminator",
+    "rezisierius": "James Cameron",
+    "isleidimo_data": 1984,
+    "zanras": "Veiksmo",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Wizard of Oz",
+    "rezisierius": "Victor Fleming",
+    "isleidimo_data": 1939,
+    "zanras": "Fantastinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Groundhog Day",
+    "rezisierius": "Harold Ramis",
+    "isleidimo_data": 1993,
+    "zanras": "Komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Before Sunrise",
+    "rezisierius": "Richard Linklater",
+    "isleidimo_data": 1995,
+    "zanras": "Romantinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Exorcist",
+    "rezisierius": "William Friedkin",
+    "isleidimo_data": 1973,
+    "zanras": "Siaubo",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Help",
+    "rezisierius": "Tate Taylor",
+    "isleidimo_data": 2011,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "rezisierius": "Gore Verbinski",
+    "isleidimo_data": 2003,
+    "zanras": "Nuotykių",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Barry Lyndon",
+    "rezisierius": "Stanley Kubrick",
+    "isleidimo_data": 1975,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Invisible Guest",
+    "rezisierius": "Oriol Paulo",
+    "isleidimo_data": 2016,
+    "zanras": "Trileris",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "My Neighbor Totoro",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 1988,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Castle in the Sky",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 1986,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Rocky",
+    "rezisierius": "John G. Avildsen",
+    "isleidimo_data": 1976,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Ford v Ferrari",
+    "rezisierius": "James Mangold",
+    "isleidimo_data": 2019,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Grapes of Wrath",
+    "rezisierius": "John Ford",
+    "isleidimo_data": 1940,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Tokyo Story",
+    "rezisierius": "Yasujirô Ozu",
+    "isleidimo_data": 1953,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Portrait of a Lady on Fire",
+    "rezisierius": "Céline Sciamma",
+    "isleidimo_data": 2019,
+    "zanras": "Romantinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Howl's Moving Castle",
+    "rezisierius": "Hayao Miyazaki",
+    "isleidimo_data": 2004,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Terminator",
+    "rezisierius": "James Cameron",
+    "isleidimo_data": 1984,
+    "zanras": "Veiksmo",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Big Lebowski",
+    "rezisierius": "Joel Coen",
+    "isleidimo_data": 1998,
+    "zanras": "Komedija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Monsters, Inc.",
+    "rezisierius": "Pete Docter",
+    "isleidimo_data": 2001,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Ratatouille",
+    "rezisierius": "Brad Bird",
+    "isleidimo_data": 2007,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Dead Poets Society",
+    "rezisierius": "Peter Weir",
+    "isleidimo_data": 1989,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Pirates of the Caribbean: Dead Man's Chest",
+    "rezisierius": "Gore Verbinski",
+    "isleidimo_data": 2006,
+    "zanras": "Nuotykių",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Beauty and the Beast",
+    "rezisierius": "Gary Trousdale, Kirk Wise",
+    "isleidimo_data": 1991,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Little Prince",
+    "rezisierius": "Mark Osborne",
+    "isleidimo_data": 2015,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Prisoners",
+    "rezisierius": "Denis Villeneuve",
+    "isleidimo_data": 2013,
+    "zanras": "Trileris",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Room",
+    "rezisierius": "Lenny Abrahamson",
+    "isleidimo_data": 2015,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Into the Wild",
+    "rezisierius": "Sean Penn",
+    "isleidimo_data": 2007,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Avengers",
+    "rezisierius": "Joss Whedon",
+    "isleidimo_data": 2012,
+    "zanras": "Veiksmo",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Three Billboards Outside Ebbing, Missouri",
+    "rezisierius": "Martin McDonagh",
+    "isleidimo_data": 2017,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Father",
+    "rezisierius": "Florian Zeller",
+    "isleidimo_data": 2020,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Peanut Butter Falcon",
+    "rezisierius": "Tyler Nilson, Michael Schwartz",
+    "isleidimo_data": 2019,
+    "zanras": "Nuotykių",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Captain Fantastic",
+    "rezisierius": "Matt Ross",
+    "isleidimo_data": 2016,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Zootopia",
+    "rezisierius": "Byron Howard, Rich Moore",
+    "isleidimo_data": 2016,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Hotel Rwanda",
+    "rezisierius": "Terry George",
+    "isleidimo_data": 2004,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Help",
+    "rezisierius": "Tate Taylor",
+    "isleidimo_data": 2011,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Perks of Being a Wallflower",
+    "rezisierius": "Stephen Chbosky",
+    "isleidimo_data": 2012,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Lion",
+    "rezisierius": "Garth Davis",
+    "isleidimo_data": 2016,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "A Silent Voice",
+    "rezisierius": "Naoko Yamada",
+    "isleidimo_data": 2016,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Gifted",
+    "rezisierius": "Marc Webb",
+    "isleidimo_data": 2017,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Secret Life of Walter Mitty",
+    "rezisierius": "Ben Stiller",
+    "isleidimo_data": 2013,
+    "zanras": "Nuotykių",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Hidden Figures",
+    "rezisierius": "Theodore Melfi",
+    "isleidimo_data": 2016,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Pursuit of Happyness",
+    "rezisierius": "Gabriele Muccino",
+    "isleidimo_data": 2006,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Brooklyn",
+    "rezisierius": "John Crowley",
+    "isleidimo_data": 2015,
+    "zanras": "Romantinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Bridge of Spies",
+    "rezisierius": "Steven Spielberg",
+    "isleidimo_data": 2015,
+    "zanras": "Istorinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Room",
+    "rezisierius": "Lenny Abrahamson",
+    "isleidimo_data": 2015,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Breadwinner",
+    "rezisierius": "Nora Twomey",
+    "isleidimo_data": 2017,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Miracle in Cell No. 7",
+    "rezisierius": "Mehmet Ada Öztekin",
+    "isleidimo_data": 2019,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "A Beautiful Day in the Neighborhood",
+    "rezisierius": "Marielle Heller",
+    "isleidimo_data": 2019,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Boy Who Harnessed the Wind",
+    "rezisierius": "Chiwetel Ejiofor",
+    "isleidimo_data": 2019,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Age of Adaline",
+    "rezisierius": "Lee Toland Krieger",
+    "isleidimo_data": 2015,
+    "zanras": "Romantinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Begin Again",
+    "rezisierius": "John Carney",
+    "isleidimo_data": 2013,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Mary and Max",
+    "rezisierius": "Adam Elliot",
+    "isleidimo_data": 2009,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Way Way Back",
+    "rezisierius": "Nat Faxon, Jim Rash",
+    "isleidimo_data": 2013,
+    "zanras": "Komedija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Me and Earl and the Dying Girl",
+    "rezisierius": "Alfonso Gomez-Rejon",
+    "isleidimo_data": 2015,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "About Time",
+    "rezisierius": "Richard Curtis",
+    "isleidimo_data": 2013,
+    "zanras": "Romantinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Julie & Julia",
+    "rezisierius": "Nora Ephron",
+    "isleidimo_data": 2009,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Theory of Everything",
+    "rezisierius": "James Marsh",
+    "isleidimo_data": 2014,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Father",
+    "rezisierius": "Florian Zeller",
+    "isleidimo_data": 2020,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Soul",
+    "rezisierius": "Pete Docter, Kemp Powers",
+    "isleidimo_data": 2020,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Sound of Metal",
+    "rezisierius": "Darius Marder",
+    "isleidimo_data": 2019,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Jojo Rabbit",
+    "rezisierius": "Taika Waititi",
+    "isleidimo_data": 2019,
+    "zanras": "Karinė komedija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "1917",
+    "rezisierius": "Sam Mendes",
+    "isleidimo_data": 2019,
+    "zanras": "Karinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Trial of the Chicago 7",
+    "rezisierius": "Aaron Sorkin",
+    "isleidimo_data": 2020,
+    "zanras": "Istorinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Tenet",
+    "rezisierius": "Christopher Nolan",
+    "isleidimo_data": 2020,
+    "zanras": "Veiksmo",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Gentlemen",
+    "rezisierius": "Guy Ritchie",
+    "isleidimo_data": 2019,
+    "zanras": "Kriminalinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Palm Springs",
+    "rezisierius": "Max Barbakow",
+    "isleidimo_data": 2020,
+    "zanras": "Romantinė komedija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Another Round",
+    "rezisierius": "Thomas Vinterberg",
+    "isleidimo_data": 2020,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Minari",
+    "rezisierius": "Lee Isaac Chung",
+    "isleidimo_data": 2020,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Dig",
+    "rezisierius": "Simon Stone",
+    "isleidimo_data": 2021,
+    "zanras": "Istorinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Mitchells vs the Machines",
+    "rezisierius": "Michael Rianda, Jeff Rowe",
+    "isleidimo_data": 2021,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Luca",
+    "rezisierius": "Enrico Casarosa",
+    "isleidimo_data": 2021,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "King Richard",
+    "rezisierius": "Reinaldo Marcus Green",
+    "isleidimo_data": 2021,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Dune",
+    "rezisierius": "Denis Villeneuve",
+    "isleidimo_data": 2021,
+    "zanras": "Mokslinė fantastika",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "CODA",
+    "rezisierius": "Sian Heder",
+    "isleidimo_data": 2021,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Belfast",
+    "rezisierius": "Kenneth Branagh",
+    "isleidimo_data": 2021,
+    "zanras": "Istorinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Power of the Dog",
+    "rezisierius": "Jane Campion",
+    "isleidimo_data": 2021,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Don't Look Up",
+    "rezisierius": "Adam McKay",
+    "isleidimo_data": 2021,
+    "zanras": "Satyrinė komedija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Worst Person in the World",
+    "rezisierius": "Joachim Trier",
+    "isleidimo_data": 2021,
+    "zanras": "Romantinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Tick, Tick... Boom!",
+    "rezisierius": "Lin-Manuel Miranda",
+    "isleidimo_data": 2021,
+    "zanras": "Biografinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Encanto",
+    "rezisierius": "Jared Bush, Byron Howard",
+    "isleidimo_data": 2021,
+    "zanras": "Animacija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Licorice Pizza",
+    "rezisierius": "Paul Thomas Anderson",
+    "isleidimo_data": 2021,
+    "zanras": "Romantinė komedija",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Drive My Car",
+    "rezisierius": "Ryûsuke Hamaguchi",
+    "isleidimo_data": 2021,
+    "zanras": "Drama",
+    "imdb": 8.0
   }
 ]
