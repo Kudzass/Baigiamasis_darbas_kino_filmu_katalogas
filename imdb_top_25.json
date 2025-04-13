@@ -1748,5 +1748,250 @@
     "isleidimo_data": 2021,
     "zanras": "Drama",
     "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Gold Rush",
+    "rezisierius": "Charles Chaplin",
+    "isleidimo_data": 1925,
+    "zanras": "Komedija",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "The General",
+    "rezisierius": "Clyde Bruckman, Buster Keaton",
+    "isleidimo_data": 1926,
+    "zanras": "Komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Big Heat",
+    "rezisierius": "Fritz Lang",
+    "isleidimo_data": 1953,
+    "zanras": "Kriminalinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "A Separation",
+    "rezisierius": "Asghar Farhadi",
+    "isleidimo_data": 2011,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Rashomon",
+    "rezisierius": "Akira Kurosawa",
+    "isleidimo_data": 1950,
+    "zanras": "Drama",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "The Handmaiden",
+    "rezisierius": "Park Chan-wook",
+    "isleidimo_data": 2016,
+    "zanras": "Trileris",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "My Father and My Son",
+    "rezisierius": "Çagan Irmak",
+    "isleidimo_data": 2005,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "Paris, Texas",
+    "rezisierius": "Wim Wenders",
+    "isleidimo_data": 1984,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Andrei Rublev",
+    "rezisierius": "Andrei Tarkovsky",
+    "isleidimo_data": 1966,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Persona",
+    "rezisierius": "Ingmar Bergman",
+    "isleidimo_data": 1966,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Wild Tales",
+    "rezisierius": "Damián Szifron",
+    "isleidimo_data": 2014,
+    "zanras": "Juodoji komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Best Years of Our Lives",
+    "rezisierius": "William Wyler",
+    "isleidimo_data": 1946,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Night of the Hunter",
+    "rezisierius": "Charles Laughton",
+    "isleidimo_data": 1955,
+    "zanras": "Trileris",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Man Who Shot Liberty Valance",
+    "rezisierius": "John Ford",
+    "isleidimo_data": 1962,
+    "zanras": "Vesternas",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "PK",
+    "rezisierius": "Rajkumar Hirani",
+    "isleidimo_data": 2014,
+    "zanras": "Komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Amores Perros",
+    "rezisierius": "Alejandro G. Iñárritu",
+    "isleidimo_data": 2000,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Fanny and Alexander",
+    "rezisierius": "Ingmar Bergman",
+    "isleidimo_data": 1982,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Sherlock Jr.",
+    "rezisierius": "Buster Keaton",
+    "isleidimo_data": 1924,
+    "zanras": "Komedija",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Hera Pheri",
+    "rezisierius": "Priyadarshan",
+    "isleidimo_data": 2000,
+    "zanras": "Komedija",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "Cool Hand Luke",
+    "rezisierius": "Stuart Rosenberg",
+    "isleidimo_data": 1967,
+    "zanras": "Drama",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "The Wages of Fear",
+    "rezisierius": "Henri-Georges Clouzot",
+    "isleidimo_data": 1953,
+    "zanras": "Trileris",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Come and See",
+    "rezisierius": "Elem Klimov",
+    "isleidimo_data": 1985,
+    "zanras": "Karinis",
+    "imdb": 8.4
+  },
+  {
+    "pavadinimas": "Battleship Potemkin",
+    "rezisierius": "Sergei Eisenstein",
+    "isleidimo_data": 1925,
+    "zanras": "Istorinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Celebration",
+    "rezisierius": "Thomas Vinterberg",
+    "isleidimo_data": 1998,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Incendies",
+    "rezisierius": "Denis Villeneuve",
+    "isleidimo_data": 2010,
+    "zanras": "Drama",
+    "imdb": 8.2
+  },
+  {
+    "pavadinimas": "It Happened One Night",
+    "rezisierius": "Frank Capra",
+    "isleidimo_data": 1934,
+    "zanras": "Romantinė komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "La Strada",
+    "rezisierius": "Federico Fellini",
+    "isleidimo_data": 1954,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Elephant Man",
+    "rezisierius": "David Lynch",
+    "isleidimo_data": 1980,
+    "zanras": "Biografinis",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Nightmare Alley",
+    "rezisierius": "Guillermo del Toro",
+    "isleidimo_data": 2021,
+    "zanras": "Trileris",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "The Man Who Would Be King",
+    "rezisierius": "John Huston",
+    "isleidimo_data": 1975,
+    "zanras": "Nuotykių",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Ikiru",
+    "rezisierius": "Akira Kurosawa",
+    "isleidimo_data": 1952,
+    "zanras": "Drama",
+    "imdb": 8.3
+  },
+  {
+    "pavadinimas": "The Circus",
+    "rezisierius": "Charles Chaplin",
+    "isleidimo_data": 1928,
+    "zanras": "Komedija",
+    "imdb": 8.1
+  },
+  {
+    "pavadinimas": "Dog Day Afternoon",
+    "rezisierius": "Sidney Lumet",
+    "isleidimo_data": 1975,
+    "zanras": "Kriminalinis",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Nights of Cabiria",
+    "rezisierius": "Federico Fellini",
+    "isleidimo_data": 1957,
+    "zanras": "Drama",
+    "imdb": 8.0
+  },
+  {
+    "pavadinimas": "Samsara",
+    "rezisierius": "Pan Nalin",
+    "isleidimo_data": 2001,
+    "zanras": "Drama",
+    "imdb": 8.0
   }
 ]

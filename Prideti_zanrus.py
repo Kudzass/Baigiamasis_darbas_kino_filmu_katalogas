@@ -6,7 +6,7 @@ zanru_sarasas = [
     "Siaubo", "Nuotykių", "Kriminalinis", "Vesternas", "Biografinis", "Istorinis",
     "Muzikalas", "Sporto", "Mistinis", "Karinis", "Šeimai", "Fantastinis",
     "Tragi-komedija", "Mokslinė fantastika", "Drama", "Karinė komedija", "Romantinė komedija",
-    "Satyrinė komedija", "Komedija", "Muzikinis"
+    "Satyrinė komedija", "Komedija", "Muzikinis", "Juodoji komedija"
 ]
 
 with app.app_context():

@@ -32,7 +32,7 @@ def index():
     zanras_id = request.args.get('zanras_id')
     imdb_range = request.args.get('imdb_range')
 
-    filmai_query = Filmas.query
+    filmai_query = Filmas.query.order_by(Filmas.imdb.desc())
 
     if search:
         filmai_query = filmai_query.filter(
