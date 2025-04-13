@@ -41,7 +41,7 @@
     <ul>
         {% for filmas in filmai %}
             <li>
-                <strong>{{ filmas.pavadinimas }}</strong> <br>
+                <strong>{{ loop.index }}. {{ filmas.pavadinimas }}</strong> <br>
                 Žanras: {{ filmas.zanras.pavadinimas if filmas.zanras else 'Nežinomas žanras' }}<br>
                 Režisierius: {{ filmas.rezisierius }}<br>
                 Metai: {{ filmas.isleidimo_data.year }}<br>
