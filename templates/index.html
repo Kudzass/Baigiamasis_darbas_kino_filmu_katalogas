@@ -33,7 +33,7 @@
     {% endfor %}
         </select>
 
-        <input type="text" name="search" placeholder="Ieškoti pagal pavadinimą arba režisierių" value="{{ request.args.get('search', '') }}">
+        <input type="text" name="search" style="width: 250px; " placeholder="Ieškoti pagal pavadinimą arba režisierių" value="{{ request.args.get('search', '') }}">
         <button type="submit">Filtruoti</button>
     </form>
 
@@ -46,11 +46,12 @@
                 Režisierius: {{ filmas.rezisierius }}<br>
                 Metai: {{ filmas.isleidimo_data.year }}<br>
                 IMDB: {{ filmas.imdb }}
-
+            <div class="veiksmai">
                 <a href="{{ url_for('redaguoti_filma', id=filmas.id) }}">Redaguoti</a>
                 <form action="{{ url_for('istrinti_filma', id=filmas.id) }}" method="post" style="display:inline;">
                     <button type="submit">Ištrinti</button>
                 </form>
+            </div>
             </li>
         {% endfor %}
     </ul>

@@ -17,3 +17,4 @@ class Filmas(db.Model):
     imdb = db.Column(db.Float)
     zanras_id = db.Column(db.Integer, db.ForeignKey('zanras.id'))
     zanras = db.relationship('Zanras', backref='filmai')
+
